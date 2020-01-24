@@ -1,10 +1,10 @@
 remote_theme: janczizikow/sleek
 
 # SITE CONFIGURATION
-title: Pieter Vandenheede # your site title
-author: Pieter Vandenheede # You :P
+title: Crazy Cool Cloud Stuff
+author: Pieter Vandenheede
 description: > # Meta description of Homepage
-  Everything is awesome!
+  Crazy Cool Cloud Stuff
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pvandenheede.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,11 +21,6 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-#navigation:
-#    - title: Home
-#      url: "/"
-#    - title: About
-#      url: "/about"
 
 #  tagline: Everything is awesome!
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
@@ -34,7 +29,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 twitter_username: pvandenheede # replace with your_twitter_username or comment to remove link from footer
 github_username:  pvandenheede # replace with your_github_username or comment to remove link from footer
-#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+#instagram_username: wut # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: pvandenheede # to enable comments replace with your_disqus_shortname
