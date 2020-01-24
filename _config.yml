@@ -17,12 +17,12 @@ social:
     - https://github.com/pvandenheede
 
 # THEME SETTINGS
-navigation: # Navigation links
+#navigation: # Navigation links
 #  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+#  - {name: 'About', link: '/about'}
+#  - {name: 'Contact', link: '/contact'}
   
-  tagline: Everything is awesome!
+#  tagline: Everything is awesome!
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 #email: pieter.vandenheede@domain.com # email for form submission
