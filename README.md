@@ -1,3 +1,7 @@
 # Pieter Vandenheede
 
-Repository contains source code for my blog.
+Repository containing source code for my blog.
+
+## Licensing
+
+This blog uses the [Sleek Jekyll theme](https://github.com/janczizikow/sleek).
