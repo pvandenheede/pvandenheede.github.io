@@ -1,6 +1,11 @@
 ---
 layout: page
 title: About
+summary: About me
+featured-img: passion
+categories: 
+comments: false
+mathjax: true
 permalink: /about/
 ---
 
