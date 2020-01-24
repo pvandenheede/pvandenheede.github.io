@@ -26,9 +26,13 @@ permalink: /about/
 **About this blog**:
 
 Wanted to share with the community since a long time.
+
 My first post dates back from 2009, when I still was doing a lot of Microsoft BizTalk related work. Nowadays I'm head first into Microsoft Azure. 
+
 This blog is mainly about sharing what I learned along the way. It may be simple stuff, it might be cool stuff. Anything that I want to get out there. 
+
 Keeping the wonderful advice of Scott Hanselman in memory: 'The number of keystrokes one has is finite'.
 It's about sharing. At some point this blog might be visited by young people or experienced ones. I don't care, as long as I can help someone with something. 
+
 
 I used to be on WordPress, but GitHub Pages feels a lot better.
