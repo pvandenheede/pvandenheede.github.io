@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Moving the blog to GitHub Pages
 featured-img: sleek
 mathjax: true
 ---
 
-# Getting started
+# Moving the blog to GitHub Pages
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
