@@ -1,2 +1,3 @@
-# pvandenheede.github.io
-My personal blog
+# Pieter Vandenheede
+
+Repository contains source code for my blog.
