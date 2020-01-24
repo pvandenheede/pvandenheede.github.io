@@ -17,11 +17,16 @@ social:
     - https://github.com/pvandenheede
 
 # THEME SETTINGS
-#navigation: # Navigation links
-#  - {name: 'Home', link: '/'}
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
 #  - {name: 'About', link: '/about'}
 #  - {name: 'Contact', link: '/contact'}
-  
+#navigation:
+#    - title: Home
+#      url: "/"
+#    - title: About
+#      url: "/about"
+
 #  tagline: Everything is awesome!
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
