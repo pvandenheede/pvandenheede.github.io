@@ -20,14 +20,17 @@ layout: compress
     {% include header.html %}
 
     {% if page.featured-img %}
-      <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/pages/{{ page.featured-img }}.jpg">
+    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
     {% else %}
+    <div class="hero dark-bg">
+    {% endif %}    
+
       <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
-      </div>
-    {% endif %}
-  
-    <main class="site__content">
+        <h1 class="hero__title">{{ page.title }}</h1>      
+      </div>  
+    </div>
+
+      <main class="site__content">
 
       <div class="container">
         <div class="page-content">
