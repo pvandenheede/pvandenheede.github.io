@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Azure API Management: Execution order of policies
-date: 2019-05-22 23:19
-author: pvandenheede
+title: Execution order of policies
+summary: Here's a blog post which explains you in which order Azure API Management runs its policies.
+featured-img: 20190522-policyexecutionorder
 comments: true
-categories: [API Management, Azure, BizTalk Server]
+categories: Azure API Management
 ---
+
 <!-- wp:paragraph -->
-<p>I wrote <a href="https://pvandenheede.wordpress.com/2017/10/23/azure-apim-disable-using-ocp-apim-subscription-key/">some </a><a href="https://pvandenheede.wordpress.com/2017/07/12/azure-api-management-subscription-key-invalid/">posts </a>about <a rel="noreferrer noopener" aria-label="Azure API management (opens in a new tab)" href="https://azure.microsoft.com/en-us/services/api-management/" target="_blank">Azure API management</a> earlier last year, but last week I was discussing some things with a colleague of mine and he asked a question neither of us could answer out of our heads:</p>
+<p>I wrote some posts about Azure API management earlier last year, but last week I was discussing some things with a colleague of mine and he asked a question neither of us could answer out of our heads:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
