@@ -2,7 +2,7 @@
 layout: post
 title: Moved to GitHub Pages
 summary: I moved to GitHub Pages and here's why!
-featured-img: sleek
+featured-img: 20200124-ghpages
 categories: Meta
 comments: true
 mathjax: true
