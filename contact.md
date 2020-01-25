@@ -13,8 +13,8 @@ permalink: /contact/
 
 There are various ways you can contact me. Try one of the following:
 
- - Twitter: https://twitter.com/pvandenheede
- - LinkedIn: https://www.linkedin.com/in/pvandenheede/
- - Stack Overflow: https://stackoverflow.com/users/2406157/pieter-vandenheede
+ - Twitter: <https://twitter.com/pvandenheede>
+ - LinkedIn: <https://www.linkedin.com/in/pvandenheede/>
+ - Stack Overflow: <https://stackoverflow.com/users/2406157/pieter-vandenheede>
  
  If all of the above fail, try shouting REALLY LOUD!
