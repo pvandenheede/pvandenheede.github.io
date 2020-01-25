@@ -5,7 +5,7 @@ title: Pieter Vandenheede
 author: Pieter Vandenheede
 description: > # Meta description of Homepage
   Crazy Cool Cloud Stuff
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 tagline: Crazy Cool Cloud Stuff
 url: "https://pvandenheede.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
