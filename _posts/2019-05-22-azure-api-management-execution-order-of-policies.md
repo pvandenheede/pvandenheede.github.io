@@ -4,7 +4,7 @@ title: Execution order of policies
 summary: Here's a blog post which explains you in which order Azure API Management runs its policies.
 featured-img: 20190522-policyexecutionorder
 comments: true
-categories: Azure API Management
+categories: Azure-API-Management
 ---
 
 <!-- wp:paragraph -->
