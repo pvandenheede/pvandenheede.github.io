@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-summary: Contact 
+title: Contact
+summary: Contact Pieter Vandenheede
 featured-img: passion
 categories: 
 comments: false
