@@ -36,3 +36,6 @@ It's about sharing. At some point this blog might be visited by young people or 
 
 
 I used to be on WordPress, but GitHub Pages feels a lot better.
+
+
+<a href="https://stackoverflow.com/users/2406157/pieter-vandenheede"><img src="https://stackoverflow.com/users/flair/2406157.png?theme=clean" width="208" height="58" alt="profile for Pieter Vandenheede at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pieter Vandenheede at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
