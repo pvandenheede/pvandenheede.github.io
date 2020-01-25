@@ -1,6 +1,6 @@
 # Pieter Vandenheede
 
-Repository containing source code for my blog.
+Repository containing source code for my blog at https://pvandenheede.github.io
 
 ## Licensing
 
