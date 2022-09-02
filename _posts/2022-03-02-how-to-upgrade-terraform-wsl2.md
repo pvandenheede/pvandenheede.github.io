@@ -2,7 +2,7 @@
 layout: post
 title: How to upgrade Terraform in WSL2
 summary: The script to upgrade Terraform on WSL2
-featured-img: 202203-terraformversion
+featured-img: 20220303-terraformversion
 categories: [Terraform WSL2]
 comments: true
 mathjax: true
